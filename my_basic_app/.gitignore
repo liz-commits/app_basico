@@ -1,3 +1,15 @@
+# Ignorar Flutter SDK
+flutter/
+flutter_linux_3.13.0-stable.tar.xz
+
+# Ignorar diretórios do Flutter
+.build/
+.idea/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos/
 # Miscellaneous
 *.class
 *.log
